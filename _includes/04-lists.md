@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Series
+* Kimbap
+* Good people
+  * everywhere in the world
