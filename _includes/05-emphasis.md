@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a very *fast* learner
+
+I like to learn **new things** everyday
+
+I'll be the ***good asset*** to your team
